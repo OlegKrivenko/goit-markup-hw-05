@@ -133,7 +133,7 @@ img {
 .current {
    color: var(--action-color);
 }
-.nav-link.current::before {
+.nav-link.current::after {
    content: "";
    position: absolute;
    bottom: 0;
